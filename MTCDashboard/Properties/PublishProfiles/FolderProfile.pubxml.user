@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\WORKSPACE\FILES\Workspace\Apps\MTCDashboard\Published Code</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="assets/css/bootstrap.min.css">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/css/demo.css">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/css/light-bootstrap-dashboard.css">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/fonts/nucleo-icons.eot">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/fonts/nucleo-icons.svg">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/fonts/nucleo-icons.ttf">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/fonts/nucleo-icons.woff">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/fonts/nucleo-icons.woff2">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/img/apple-icon.png">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/img/default-avatar.png">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/img/faces/face-0.jpg">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/img/faces/face-1.jpg">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/img/faces/face-2.jpg">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/img/faces/face-3.jpg">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/img/faces/face-4.jpg">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/img/faces/face-5.jpg">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/img/faces/face-6.jpg">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/img/faces/face-7.jpg">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/img/faces/tim_vector.jpe">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/img/favicon.ico">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/img/full-screen-image-3.jpg">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/img/loading-bubbles.svg">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/img/mask.png">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/img/new_logo.png">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/img/sidebar-1.jpg">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/img/sidebar-2.jpg">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/img/sidebar-3.jpg">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/img/sidebar-4.jpg">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/img/sidebar-5.jpg">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/img/tim_80x80.png">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/img/tnstc-logo.png">
+      <publishTime>05/23/2022 20:01:40</publishTime>
+    </File>
+    <File Include="assets/img/tnstc.png">
+      <publishTime>05/23/2022 20:03:48</publishTime>
+    </File>
+    <File Include="assets/js/core/bootstrap.min.js">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/js/core/jquery.3.2.1.min.js">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/js/core/popper.min.js">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/js/demo.js">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/js/light-bootstrap-dashboard.js">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/js/plugins/bootstrap-datepicker.js">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/js/plugins/bootstrap-notify.js">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/js/plugins/bootstrap-switch.js">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/js/plugins/chartist.min.js">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/js/plugins/nouislider.min.js">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/sass/lbd/mixins/_buttons.scss">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/sass/lbd/mixins/_cards.scss">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/sass/lbd/mixins/_chartist.scss">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/sass/lbd/mixins/_icons.scss">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/sass/lbd/mixins/_inputs.scss">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/sass/lbd/mixins/_labels.scss">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/sass/lbd/mixins/_morphing-buttons.scss">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/sass/lbd/mixins/_navbars.scss">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/sass/lbd/mixins/_social-buttons.scss">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/sass/lbd/mixins/_tabs.scss">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/sass/lbd/mixins/_transparency.scss">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/sass/lbd/mixins/_vendor-prefixes.scss">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/sass/lbd/plugins/_animate.scss">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/sass/lbd/plugins/_datetime-picker.scss">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/sass/lbd/_alerts.scss">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/sass/lbd/_bootstrap-switch.scss">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/sass/lbd/_buttons.scss">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/sass/lbd/_cards.scss">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/sass/lbd/_chartist.scss">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/sass/lbd/_checkbox-radio-switch.scss">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/sass/lbd/_dropdown.scss">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/sass/lbd/_footers.scss">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/sass/lbd/_inputs.scss">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/sass/lbd/_misc.scss">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/sass/lbd/_mixins.scss">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/sass/lbd/_navbars.scss">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/sass/lbd/_partial-nucleo-icons.scss">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/sass/lbd/_responsive.scss">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/sass/lbd/_sidebar-and-main-panel.scss">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/sass/lbd/_tables.scss">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/sass/lbd/_typography.scss">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/sass/lbd/_variables.scss">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="assets/sass/light-bootstrap-dashboard.scss">
+      <publishTime>05/23/2022 16:41:13</publishTime>
+    </File>
+    <File Include="bin/App_Web_5s5efgne.dll">
+      <publishTime>05/23/2022 19:50:43</publishTime>
+    </File>
+    <File Include="bin/App_Web_h4a1jl1c.dll">
+      <publishTime>05/23/2022 20:08:15</publishTime>
+    </File>
+    <File Include="bin/compliants.aspx.cdcab7d2.compiled">
+      <publishTime>05/23/2022 20:08:15</publishTime>
+    </File>
+    <File Include="bin/index.aspx.cdcab7d2.compiled">
+      <publishTime>05/23/2022 20:08:15</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>09/05/2018 16:10:50</publishTime>
+    </File>
+    <File Include="bin/MTCDashboard.dll">
+      <publishTime>05/23/2022 20:08:02</publishTime>
+    </File>
+    <File Include="bin/MTCDashboard.pdb">
+      <publishTime>05/23/2022 20:08:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="Compliants.aspx">
+      <publishTime>05/23/2022 20:08:16</publishTime>
+    </File>
+    <File Include="Index.aspx">
+      <publishTime>05/23/2022 20:08:16</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>05/23/2022 20:08:04</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/23/2022 19:50:33</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
